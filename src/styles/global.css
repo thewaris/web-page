@@ -3,13 +3,9 @@
 @tailwind utilities;
 
 @font-face {
-    font-family: 'anaktoria';
-    src: url('/fonts/anaktoria.otf') format('otf');
+    font-family: 'Anaktoria';
+    src: url('fonts/anaktoria.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
-  }
-
-  @theme {
-    --font-sans: 'anaktoria', 'sans-serif';
   }
